@@ -1,1 +1,1 @@
-# this is my first clone wwebsite of Amazon.com
+# this is my first clone website of Amazon.com
